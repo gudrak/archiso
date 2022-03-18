@@ -1,5 +1,5 @@
 archiso
 =======
-This is the archiso testing build for the new OB CLI version of Evo/Lution.
+This is the archiso fork of the Evo/Lution. For fluxbox WM
 
 
